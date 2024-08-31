@@ -1,0 +1,133 @@
+.sd{
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+    position: absolute;
+    z-index: 1;
+    padding: 2px;
+}
+.sp{
+    
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+    position: absolute;
+    z-index: 1;
+    padding: 1px;
+
+}
+.sp2{
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+    position: absolute;
+    z-index: 1;
+    padding: 1px;
+}
+.banner{
+    border: 1px solid #ccc;
+    margin: 10px 0;
+}
+
+
+.navbar-brand{
+    letter-spacing: 2px;
+    font-weight: bolder;
+    font-size: large;
+    
+}
+.navbar-brand::first-letter{
+    font-size: 35px;
+}
+/*baCKGROUND CSS*/
+
+.custom-navbar {
+    background-color: #d374c9; /* Açık mor rengi */
+    color: white; /* Yazı rengini beyaz yapar */
+    margin: 8px 4px 8px 1px;
+}
+
+.custom-navbar .nav-link {
+    color: white; /* Navigasyon bağlantılarının rengini beyaz yapar */
+}
+
+.custom-navbar .navbar-brand {
+    color: white; /* Marka rengini beyaz yapar */
+}
+
+.navbar-toggler-icon {
+    background-color: white; /* Toggler ikonu için beyaz arka plan */
+}
+.custom-navbar img{
+    border-radius: 50px;
+}
+
+/*ANASAYFA START CSS*/
+
+
+.carousel-item img{
+    height: 350px;
+
+}
+.card{
+    position: relative;
+    padding: 12px;
+}
+.card .spor{
+    background-color: green;
+    position: absolute;
+    right: 0;
+    color: white;
+    font-size: 9px;
+    padding: .1px;
+    font-weight: bolder;
+    overflow: hidden;
+    letter-spacing: 1px;
+    box-shadow: 1px 1px 1px red;
+}
+.card .sondakika{
+    background-color: red;
+    position: absolute;
+    right: 0;
+    color: white;
+    font-size: 9px;
+    padding: .1px;
+    font-weight: bolder;
+    overflow: hidden;
+    letter-spacing: 2px;
+    box-shadow: 1px 1px 1px red;
+}
+.card .btn{
+    display: block;
+}
+#two .card{
+    width: 25%;
+}
+.card:hover{
+    transform: scale(1.03);
+    transition: .5s;
+    z-index: 1;
+    box-shadow: 15px 15px 8px grey;
+    border-radius: 6px;
+}
+.spor{
+    margin: 5px;
+    letter-spacing: 3px;
+    box-shadow: 6px 6px 3px grey;
+}
+
+
+
+@media(max-width:768px){
+    #two .card{
+        width: 100%;
+    }
+    .card:hover{
+        transform: none;
+        transition: none;
+        z-index: none;
+        box-shadow: none;
+        border-radius: none;
+    }
+    
+}
