@@ -1,4 +1,4 @@
-# ⚽ TRANSFER CEBINDE ⚽-BOOSTRAP
+# ⚽ TRANSFER CEBiNDE ⚽-BOOSTRAP
 
 ### 👟⚽️🥅 Yaptığım Spor Haber Sitesine Göz Atın!
 
