@@ -2,6 +2,9 @@
 
 ### 👟⚽️🥅 Yaptığım Spor Haber Sitesine Göz Atın!
 
+## 💼 Sunum
+![](transfer.gif)
+
 **Güncel Transfer Haberleri:** 📰 Sitemiz, futbol dünyasındaki en son transfer gelişmelerini ve spor kulüplerinden haberleri anında takip etmenizi sağlar.
 
 **Canlı Skor:** ⏱️ Taraftarlar için heyecan verici anlar sunan canlı maç skorları ve analizlerle dolu bir deneyim sunuyoruz.
